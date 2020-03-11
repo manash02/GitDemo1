@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Company" max_length="40" name="x_322407_gitdemo1_company" type="collection"/>
+</database>
